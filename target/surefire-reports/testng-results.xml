@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20" started-at="2021-05-14T05:08:38Z" finished-at="2021-05-14T05:08:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20" started-at="2021-05-14T05:08:38Z" finished-at="2021-05-14T05:08:38Z">
+      <class name="com.myframework.pom.testcase.Day1Test">
+        <test-method status="PASS" signature="demo1()[pri:0, instance:com.myframework.pom.testcase.Day1Test@63021689]" name="demo1" duration-ms="5" started-at="2021-05-14T10:38:38Z" finished-at="2021-05-14T10:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="demo3()[pri:0, instance:com.myframework.pom.testcase.Day1Test@63021689]" name="demo3" duration-ms="0" started-at="2021-05-14T10:38:38Z" finished-at="2021-05-14T10:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+      </class> <!-- com.myframework.pom.testcase.Day1Test -->
+      <class name="com.myframework.pom.testcase.Day2Test">
+        <test-method status="PASS" signature="demo4()[pri:0, instance:com.myframework.pom.testcase.Day2Test@1622f1b]" name="demo4" duration-ms="0" started-at="2021-05-14T10:38:38Z" finished-at="2021-05-14T10:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo4 -->
+        <test-method status="PASS" signature="demo5()[pri:0, instance:com.myframework.pom.testcase.Day2Test@1622f1b]" name="demo5" duration-ms="0" started-at="2021-05-14T10:38:38Z" finished-at="2021-05-14T10:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo5 -->
+        <test-method status="PASS" signature="demo6()[pri:0, instance:com.myframework.pom.testcase.Day2Test@1622f1b]" name="demo6" duration-ms="1" started-at="2021-05-14T10:38:38Z" finished-at="2021-05-14T10:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo6 -->
+      </class> <!-- com.myframework.pom.testcase.Day2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
